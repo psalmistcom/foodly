@@ -8,6 +8,7 @@ import 'package:foodly/views/search/search_page.dart';
 import 'package:get/get.dart';
 import 'package:flutter_vector_icons/flutter_vector_icons.dart';
 
+// ignore: must_be_immutable
 class MainScreen extends StatelessWidget {
   MainScreen({super.key});
 
